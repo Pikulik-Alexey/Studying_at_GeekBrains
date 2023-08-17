@@ -1,0 +1,15 @@
+C:\Studying at GeekBrains\si_sharp\homework\homework_2\task_10\bin\Debug\net7.0\task_10.exe
+C:\Studying at GeekBrains\si_sharp\homework\homework_2\task_10\bin\Debug\net7.0\task_10.deps.json
+C:\Studying at GeekBrains\si_sharp\homework\homework_2\task_10\bin\Debug\net7.0\task_10.runtimeconfig.json
+C:\Studying at GeekBrains\si_sharp\homework\homework_2\task_10\bin\Debug\net7.0\task_10.dll
+C:\Studying at GeekBrains\si_sharp\homework\homework_2\task_10\bin\Debug\net7.0\task_10.pdb
+C:\Studying at GeekBrains\si_sharp\homework\homework_2\task_10\obj\Debug\net7.0\task_10.csproj.AssemblyReference.cache
+C:\Studying at GeekBrains\si_sharp\homework\homework_2\task_10\obj\Debug\net7.0\task_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studying at GeekBrains\si_sharp\homework\homework_2\task_10\obj\Debug\net7.0\task_10.AssemblyInfoInputs.cache
+C:\Studying at GeekBrains\si_sharp\homework\homework_2\task_10\obj\Debug\net7.0\task_10.AssemblyInfo.cs
+C:\Studying at GeekBrains\si_sharp\homework\homework_2\task_10\obj\Debug\net7.0\task_10.csproj.CoreCompileInputs.cache
+C:\Studying at GeekBrains\si_sharp\homework\homework_2\task_10\obj\Debug\net7.0\task_10.dll
+C:\Studying at GeekBrains\si_sharp\homework\homework_2\task_10\obj\Debug\net7.0\refint\task_10.dll
+C:\Studying at GeekBrains\si_sharp\homework\homework_2\task_10\obj\Debug\net7.0\task_10.pdb
+C:\Studying at GeekBrains\si_sharp\homework\homework_2\task_10\obj\Debug\net7.0\task_10.genruntimeconfig.cache
+C:\Studying at GeekBrains\si_sharp\homework\homework_2\task_10\obj\Debug\net7.0\ref\task_10.dll
