@@ -47,6 +47,8 @@ for x in range(sum_num):
 
 number = int(input("Введите число: "))
 i = 0
-while 2 ** i < number:
+degree = 1
+while degree < number:
     print(2 ** i, end=" ")
     i += 1
+    degree = 2 ** i
