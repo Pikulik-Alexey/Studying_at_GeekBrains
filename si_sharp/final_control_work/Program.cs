@@ -45,3 +45,11 @@ string[] ResultArray(string[] array)
     }
     return arrayRes;
 }
+string[] arrayFaсt = CreateArray();
+Console.Clear();
+Console.WriteLine("Созданный массив:");
+ShowArray(arrayFaсt);
+Console.WriteLine();
+string[] arrayRes = ResultArray(arrayFaсt);
+Console.WriteLine("Новый массив из строк, длина которых меньше, либо равна 3 символам:");
+ShowArray(arrayRes);
