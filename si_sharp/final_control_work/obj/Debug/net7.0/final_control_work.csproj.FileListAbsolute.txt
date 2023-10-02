@@ -1,0 +1,15 @@
+C:\Studying at GeekBrains\si_sharp\final_control_work\bin\Debug\net7.0\final_control_work.exe
+C:\Studying at GeekBrains\si_sharp\final_control_work\bin\Debug\net7.0\final_control_work.deps.json
+C:\Studying at GeekBrains\si_sharp\final_control_work\bin\Debug\net7.0\final_control_work.runtimeconfig.json
+C:\Studying at GeekBrains\si_sharp\final_control_work\bin\Debug\net7.0\final_control_work.dll
+C:\Studying at GeekBrains\si_sharp\final_control_work\bin\Debug\net7.0\final_control_work.pdb
+C:\Studying at GeekBrains\si_sharp\final_control_work\obj\Debug\net7.0\final_control_work.csproj.AssemblyReference.cache
+C:\Studying at GeekBrains\si_sharp\final_control_work\obj\Debug\net7.0\final_control_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studying at GeekBrains\si_sharp\final_control_work\obj\Debug\net7.0\final_control_work.AssemblyInfoInputs.cache
+C:\Studying at GeekBrains\si_sharp\final_control_work\obj\Debug\net7.0\final_control_work.AssemblyInfo.cs
+C:\Studying at GeekBrains\si_sharp\final_control_work\obj\Debug\net7.0\final_control_work.csproj.CoreCompileInputs.cache
+C:\Studying at GeekBrains\si_sharp\final_control_work\obj\Debug\net7.0\final_control_work.dll
+C:\Studying at GeekBrains\si_sharp\final_control_work\obj\Debug\net7.0\refint\final_control_work.dll
+C:\Studying at GeekBrains\si_sharp\final_control_work\obj\Debug\net7.0\final_control_work.pdb
+C:\Studying at GeekBrains\si_sharp\final_control_work\obj\Debug\net7.0\final_control_work.genruntimeconfig.cache
+C:\Studying at GeekBrains\si_sharp\final_control_work\obj\Debug\net7.0\ref\final_control_work.dll
