@@ -20,3 +20,9 @@ string[] CreateArray()
     }
     return array;
 }
+void ShowArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i += 1)
+        Console.Write(array[i] + " ");
+    Console.WriteLine();
+}
