@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: aliceblue;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: coral;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(162, 183, 6);
+}
+
+img {
+    width: 500px;
+}
+
+p {
+    font-size: 18px;
+    color: rgb(9, 8, 8);
+}
+
+.list {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+}
+
+.decor {
+    color: brown;
+}
