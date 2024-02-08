@@ -1,0 +1,11 @@
+.git
+.vscode
+html
+java_course
+log.txt
+log.txt.lck
+paradigms
+python
+python_course_2
+si_sharp
+testFile.txt
